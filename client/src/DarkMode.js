@@ -17,5 +17,7 @@ import { useEffect } from 'react'
 
     return [darkMode, setDarkMode]
 
-}
+ }
+
+ 
 export default DarkMode
