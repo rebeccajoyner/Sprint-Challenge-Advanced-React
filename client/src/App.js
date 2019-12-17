@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './App.css';
 import Players from './Players';
 import DarkMode from './DarkMode';
